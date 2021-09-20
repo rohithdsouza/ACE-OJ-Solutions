@@ -15,3 +15,9 @@ exterior wall painting cost is 12 per square feet.
 Write a C function which takes a numeric weight in the range [0,7000] as input and produces estimated time as output is: “OVERLOADED”, and for all other inputs, the output statement is
 - **P2** -
 Write a C Program for a Pythagorean triplet is a set of three integers a, b and c such that a2 + b2 = c2. Given a limit, generate all Pythagorean Triples with values smaller than given limit.
+
+## D4
+- **P1** -
+Write a C program to find second largest element in an array
+- **P2**
+Write a C program to delete element from array at specified position.
