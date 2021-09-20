@@ -16,7 +16,7 @@ int main()
 		n++;
 	}
 	index = a[n-1];
-    for (int i =0; i < n-110 20 30 40 5010 20 30 40 50;i++)
+    for (int i =0; i < n-1;i++)
     {
     	 if ( i == index -1 )
     		continue;
